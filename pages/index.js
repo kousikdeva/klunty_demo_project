@@ -5,7 +5,7 @@ import { Box } from '@mui/material'
 
 export default function Home() {
   return (
-    <Box sx={{ width: '100vw' }}>
+    <Box sx={{ width: '100%' }}>
       <Navbar />
       <LandingScreen />
     </Box>
